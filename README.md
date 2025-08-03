@@ -1,4 +1,4 @@
-# Sketch of Thought (SoT) Repository 🚀
+# RAG-Enhanced Sketch of Thought (SoT) 🚀
 
 ## Overview 📖
 The Sketch of Thought (SoT) project is a machine learning repository designed to leverage advanced natural language processing and deep learning techniques. Built with PyTorch and the Hugging Face Transformers library, this project aims to provide a robust framework for experimenting with transformer-based models, potentially enhanced with Retrieval-Augmented Generation (RAG) techniques.  
